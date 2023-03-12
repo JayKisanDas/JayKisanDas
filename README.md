@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayKisanDas
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning ANGULAR 9
+- 👀 I’m interested in WEB/MOBILE DEVELOPMENT
+- 🌱 I’m currently working on ANGULAR 13 & Ionic 6 with Capacitor
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: jaykisandas@gmail.com
 
